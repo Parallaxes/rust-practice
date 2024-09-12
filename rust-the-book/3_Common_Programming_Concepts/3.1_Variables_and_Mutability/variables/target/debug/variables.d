@@ -1,0 +1,1 @@
+/root/rust-practice/rust-the-book/3_Common_Programming_Concepts/3.1_Variables_and_Mutability/variables/target/debug/variables: /root/rust-practice/rust-the-book/3_Common_Programming_Concepts/3.1_Variables_and_Mutability/variables/src/main.rs
